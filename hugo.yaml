@@ -1,0 +1,8 @@
+baseURL: "https://my-travel-photos.pages.dev/"   # ← CHANGE this after first Cloudflare deploy
+languageCode: "en-us"
+title: "John's Photo Album"
+theme: "gallery"
+
+params:
+  defaultTheme: "light"   # change to "dark" if you want dark mode by default
+  # Optional: add your social links here
