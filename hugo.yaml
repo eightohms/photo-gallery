@@ -1,4 +1,4 @@
-baseURL: "https://photo-gallery.johnsorenson.workers.dev/"   # ← CHANGE this after first Cloudflare deploy
+baseURL: "https://eightohms.com/"   # ← CHANGE this after first Cloudflare deploy
 languageCode: "en-us"
 title: "John's Photo Album"
 theme: "gallery"
