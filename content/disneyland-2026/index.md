@@ -4,6 +4,7 @@ date: 2026-03-10
 description: "48-hour getaway"
 params:
   featured: true        # shows on homepage
+  private: true
   sort_by: "Name"
   sort_order: "asc"
 resources:
@@ -11,4 +12,3 @@ resources:
     params:
       cover: true
 ---
-A short story about the trip (optional — shows above the grid).
