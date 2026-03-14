@@ -1,7 +1,7 @@
 ---
 title: "Disneyland – March 2026"
 date: 2026-03-10
-description: "48-hour getaway"
+description: ""
 params:
   featured: true        # shows on homepage
   private: true
