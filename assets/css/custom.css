@@ -1,0 +1,4 @@
+/* Hide only the small top-left site title in the header */
+header a {
+  display: none !important;
+}
