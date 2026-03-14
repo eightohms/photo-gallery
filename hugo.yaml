@@ -1,8 +1,17 @@
 baseURL: "https://eightohms.com/"   # ← CHANGE this after first Cloudflare deploy
 languageCode: "en-us"
-title: "John's Photo Album"
+title: "John's Photos"
 theme: "gallery"
 
 params:
   defaultTheme: "light"   # change to "dark" if you want dark mode by default
   # Optional: add your social links here
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Albums
+      url: /albums/
+      weight: 2
